@@ -1,0 +1,18 @@
+iniciando notas el 23 de junio del 2022
+
+clase: como usar live server en proyectos reales de html y css.
+
+los documentos deben ser de texto plano:
+
+1; creamos una carpeta
+2; creamos un documento " index.html" 
+3; creamos otro archvio "basic.css"
+4; abrimos el vscode, ahi abrimos el folder o carptea.
+5; si el vc cambia el archivo y agrega la extension .txt,
+es necesario usar rename, y corregir las extensiones.
+6; mejor crear los archivos en el vscode para que tengan la extension correcta.
+7; creamos archivos en vscode mejor para asgurar que este correcto.
+8, podemos crear una carpeta en este folder desde vscode.
+9; creamos carpeta assests que es donde guadamos imagenes, asi deberia llamarse.
+10; podemos usar en el documento html lo siguiente: html:5, 
+esto va acrear la estructura basica del html.
